@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/arthurofficial/static/css/main.4f723df7.css",
+    "main.js": "/arthurofficial/static/js/main.60825f3a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/arthurofficial/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/me.jpg": "/arthurofficial/static/media/me.ac3913f87f7c3686d247.jpg",
+    "static/media/bg.jpg": "/arthurofficial/static/media/bg.8540b902118e242edc68.jpg",
+    "static/media/Poppins-Thin.ttf": "/arthurofficial/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/arthurofficial/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/arthurofficial/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/arthurofficial/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/arthurofficial/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/arthurofficial/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/arthurofficial/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/arthurofficial/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/profilephoto.jpg": "/arthurofficial/static/media/profilephoto.d633f0c20311d1b7fedc.jpg",
+    "index.html": "/arthurofficial/index.html",
+    "static/media/programming-skills.svg": "/arthurofficial/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/arthurofficial/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/arthurofficial/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/arthurofficial/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/arthurofficial/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.4f723df7.css.map": "/arthurofficial/static/css/main.4f723df7.css.map",
+    "main.60825f3a.js.map": "/arthurofficial/static/js/main.60825f3a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/arthurofficial/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f723df7.css",
+    "static/js/main.60825f3a.js"
+  ]
+}
