@@ -1,0 +1,28 @@
+{
+  "homepage": "http://R2Programmer.github.io/arthurofficial.github.io",
+  "name": "portfoliopro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "predeploy": "npm install client && npm run build client",
+    "deploy": "gh-pages -d build",
+    "dev": "concurrently \"npm run  server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run          build --prefix client"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "client": "^0.0.1",
+    "concurrently": "^7.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15"
+  }
+}
