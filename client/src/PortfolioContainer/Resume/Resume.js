@@ -66,7 +66,7 @@ export default function Resume(props){
           const projectsDetails = [
             {
               title: "Personal Portfolio Website",
-              duration: { fromDate: "2021", toDate: "2022" },
+              duration: { fromDate: "2021", toDate: "2023" },
               description:
                 "A Personal Portfolio website to showcase all my details and projects at one place.",
               subHeading: "Technologies Used: React JS, Bootsrap",
@@ -116,14 +116,19 @@ export default function Resume(props){
             <div className="resume-screen-container" key="work-experience">
               <div className="experience-container">
                 <ResumeHeading
-                  heading={"FREELANCE"}
+                  heading={"Software Engineer"}
                   subHeading={"Backend Developer Nodejs(NESTJS FRAMEWORK)"}
-                  fromDate={"2022"}
-                  toDate={"2023"}
+                  fromDate={"June 2022"}
+                  toDate={"June 2023"}
                 />
                 <div className="experience-description">
                   <span className="resume-description-text">
-                  Design, develop, and maintain server-side applications using NestJS. Collaborate with team members to plan, design, and implement new features and functionality. Ensure the quality and performance of code through testing and debugging. Stay up-to-date with the latest trends and best practices in web development.
+                  •	Developed 15 Restful API endpoints for the Intercloud industry using Nestjs, enabling seamless data exchange and enhancing overall application functionality.<br/>
+                  •	Collaborated closely with 2 frontend developers on a daily basis, fostering effective communication and ensuring successful integration through comprehensive SWAGGER documentation.<br/>
+                  •	Integrated Okta authentication and other third-party services, bolstering application security and improving user management, resulting in zero security breaches during the tenure.<br/>
+                  •	Implemented highly effective database query optimizations, optimizing application response times by an impressive 50%, leading to significantly improved user experiences and higher customer satisfaction.<br/>
+                  •	Conducted code reviews and enforced best practices, including SOLID principles, DRY, and KISS, resulting in cleaner, maintainable code and a 30% reduction in bug-related issues.<br/>
+
                   </span>
                 </div>
               </div>
