@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arthurofficial/static/css/main.4f723df7.css",
-    "main.js": "/arthurofficial/static/js/main.60825f3a.js",
+    "main.js": "/arthurofficial/static/js/main.0a1b1d73.js",
     "static/js/787.c4e7f8f9.chunk.js": "/arthurofficial/static/js/787.c4e7f8f9.chunk.js",
     "static/media/me.jpg": "/arthurofficial/static/media/me.ac3913f87f7c3686d247.jpg",
     "static/media/bg.jpg": "/arthurofficial/static/media/bg.8540b902118e242edc68.jpg",
@@ -15,17 +15,17 @@
     "static/media/mailz.jpeg": "/arthurofficial/static/media/mailz.d13d5e32cbc73884b526.jpeg",
     "static/media/profilephoto.jpg": "/arthurofficial/static/media/profilephoto.d633f0c20311d1b7fedc.jpg",
     "index.html": "/arthurofficial/index.html",
-    "static/media/programming-skills.svg": "/arthurofficial/static/media/programming-skills.d19983a9bee884277ffa.svg",
-    "static/media/projects.svg": "/arthurofficial/static/media/projects.2b352a52b0588dab62f5.svg",
-    "static/media/interests.svg": "/arthurofficial/static/media/interests.809890a3e4fb0938f61b.svg",
-    "static/media/education.svg": "/arthurofficial/static/media/education.10cfa28a40119ebd70cf.svg",
-    "static/media/work-history.svg": "/arthurofficial/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "static/media/programming-skills.svg": "/arthurofficial/static/media/programming-skills.3bdce3e65068107428a1.svg",
+    "static/media/projects.svg": "/arthurofficial/static/media/projects.471fe875d8cdcbe0bbc4.svg",
+    "static/media/interests.svg": "/arthurofficial/static/media/interests.311391e8b5ae1f2a7364.svg",
+    "static/media/education.svg": "/arthurofficial/static/media/education.9ed8b53812c3beb648e1.svg",
+    "static/media/work-history.svg": "/arthurofficial/static/media/work-history.f8127a79c81e4defe8bc.svg",
     "main.4f723df7.css.map": "/arthurofficial/static/css/main.4f723df7.css.map",
-    "main.60825f3a.js.map": "/arthurofficial/static/js/main.60825f3a.js.map",
+    "main.0a1b1d73.js.map": "/arthurofficial/static/js/main.0a1b1d73.js.map",
     "787.c4e7f8f9.chunk.js.map": "/arthurofficial/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f723df7.css",
-    "static/js/main.60825f3a.js"
+    "static/js/main.0a1b1d73.js"
   ]
 }
